@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Doc Parser
+
+**Embryo Doc Parser** is Embryo-Zero's fork of [docling](https://github.com/docling-project/docling), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://github.com/docling-project/docling">
     <img loading="lazy" alt="Docling" src="https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png" width="100%"/>
